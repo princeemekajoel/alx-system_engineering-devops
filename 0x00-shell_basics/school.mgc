@@ -1,2 +1,2 @@
-#!/bin/bash
-!:mime 	School On terminal File -C -m school
+0	string SCHOOL
+:mime school
